@@ -10,4 +10,4 @@
 🚀Atuo como Scrum Master <br>
 📕Estudante de Análise e Desenvolvimento de Sistemas
 
-📫[Acesse o meu Linkedin](https://www.linkedin.com/in/patricia-lins-de-mello-474b65323/)
+📫[Acesse o meu Linkedin](https://www.linkedin.com/in/let%C3%ADcia-enne-61b4b523b/))
