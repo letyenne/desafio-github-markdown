@@ -31,4 +31,19 @@
 
 ---------
 
-![Letícia Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia82TI&show_icons=true&theme=radical)
+
+<h2 align="center">🐙 GitHub Stats</h2> 
+<div align="center">
+![Letícia Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=LetíciaEnne&show_icons=true&theme=radical)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letyenne&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=letyenne&theme=tokyonight&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=letyenne&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=letyenne&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=letyenne&theme=tokyonight">
+</div>
+<br/>
+
+
+<div align="center">Made with 💜 by <a href="https://github.com/letyenne">Leticia Enne</a>.</div>  
+
+<a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db&section=footer"/></a>
