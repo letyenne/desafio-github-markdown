@@ -12,6 +12,10 @@
 
 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/let%C3%ADcia-enne-61b4b523b/))
 
+
+
+
+
 ----------------------
 
 ### Minhas Tecnologias
