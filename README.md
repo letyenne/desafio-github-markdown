@@ -4,7 +4,7 @@
 
 ----------
 
-<img align="right" width="250" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/cat.gif"> 
+<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG92end0bG51cXc1N2doZ3ZxdGxtMGlubjh6am9oazhsYWZmdTZlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif"> 
 :octocat: Olá, me chamo Letícia Enne <br>
 :speech_balloon: Sou bancária <br>
 🚀Atuo como Scrum Master <br>
