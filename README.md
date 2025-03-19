@@ -35,7 +35,7 @@
 <h2 align="center">🐙 GitHub Stats</h2> 
 <div align="center">
 
-![Letícia Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=LetíciaEnne&show_icons=true&theme=radical)
+![Letícia Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia82TI&show_icons=true&theme=dracula)
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=letyenne&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=letyenne&theme=tokyonight&utcOffset=8)">
