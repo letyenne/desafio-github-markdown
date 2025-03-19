@@ -5,6 +5,6 @@
 ----------
 
 <img align="right" width="250" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/cat.gif"> 
-:octocat: Olá, me chamo Letícia Enne
-:speech_balloon: Sou bancária
-, estudante de Análise e Desenvolvimento de Sistemas
+:octocat: Olá, me chamo Letícia Enne <br>
+:speech_balloon: Sou bancária <br>
+ estudante de Análise e Desenvolvimento de Sistemas
