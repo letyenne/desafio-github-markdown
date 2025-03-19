@@ -27,3 +27,8 @@
 | Análise e Desenvilvimento de sistemas | [Certificado]() 
 
 ----------------------
+
+
+---------
+
+![Letícia Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia82TI&show_icons=true&theme=radical)
