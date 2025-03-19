@@ -11,3 +11,10 @@
 📕Estudante de Análise e Desenvolvimento de Sistemas
 
 📫[Acesse o meu Linkedin](https://www.linkedin.com/in/let%C3%ADcia-enne-61b4b523b/))
+
+
+### Minhas Tecnologias
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" "width="100px">
+</p>
